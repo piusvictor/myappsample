@@ -1,0 +1,16 @@
+body{
+	
+	margin:0px;
+	padding:0px;
+}
+
+.container{
+	margin-left:100px;
+	margin-right:100px;
+	background-color:gray;
+	height:100vh;
+	align-items:center;
+	justify-content:center;
+	display:flex;
+	color:white;
+}
